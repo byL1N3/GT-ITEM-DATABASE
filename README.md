@@ -1,2 +1,2 @@
 # ITEM ID
-Growtopia Item IDS
+Growtopia Item Database
